@@ -1,0 +1,2 @@
+# git---friend-
+delete repo
